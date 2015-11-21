@@ -1,0 +1,12 @@
+{
+    "name": "sinkronia/simple-admin",
+    "description": "Un esempio di custom package per laravel 5.1",
+    "authors": [
+        {
+            "name": "Domenico",
+            "email": "domenico@happyflow.it"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
