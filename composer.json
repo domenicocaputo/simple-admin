@@ -7,6 +7,5 @@
             "email": "domenico@happyflow.it"
         }
     ],
-    "minimum-stability": "dev",
     "require": {}
 }
