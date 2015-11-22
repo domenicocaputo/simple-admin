@@ -6,8 +6,5 @@
             "name": "Domenico",
             "email": "domenico@happyflow.it"
         }
-    ],
-    "require": {
-        "php": ">=5.3.0"
-    }
+    ]
 }
