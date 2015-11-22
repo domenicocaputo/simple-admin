@@ -10,6 +10,7 @@ class SimpleAdminController extends Controller
     public function __construct()
     {
         //$this->middleware('auth');
+        // commento
     }
 
     /**
